@@ -15,7 +15,7 @@ The project was inspired by a real-world business scenario from Accenture’s Da
 * Considered how the insights would inform executive strategy and investor readiness.
 
 2. Data Cleaning in Excel
-* Worked with three datasets: Reactions, Content, and Reaction Types.
+* Worked with three datasets: Reactions, Content and Reaction Types.
 
 * Performed data cleaning operations such as:
 
@@ -26,43 +26,33 @@ The project was inspired by a real-world business scenario from Accenture’s Da
   * Validating category labels for consistency
 
 3. Data Analysis in Excel
-Joined datasets to create a unified table for analysis.
+* Joined datasets to create a unified table for analysis.
 
-Calculated reaction scores per content category by aggregating reactions (likes, hearts, wows, etc.).
+* Calculated reaction scores per content category by aggregating reactions (likes, hearts, wows, etc.).
 
-Ranked content categories based on total engagement.
+* Ranked content categories based on total engagement.
 
-Highlighted the top 5 most engaging content categories with insights about user behavior.
+* Highlighted the top 5 most engaging content categories with insights about user behavior.
 
 4. Insight Communication via PowerPoint
-Created a concise, visually structured PowerPoint presentation tailored to business stakeholders.
+* Created a concise, visually structured PowerPoint presentation tailored to business stakeholders.
 
-Outlined key findings, explained the method used, and presented strategic recommendations.
+* Outlined key findings, explained the method used and presented strategic recommendations.
 
-Focused on clarity, prioritization of insights, and executive readability.
+* Focused on clarity, prioritization of insights and executive readability.
 
 ✅ Key Outcomes
-Developed a fully cleaned and analyzed dataset ready for business reporting.
 
-Identified engagement trends that could guide Social Buzz’s content strategy.
+* Developed a fully cleaned and analyzed dataset ready for business reporting.
 
-Delivered a professional-grade presentation suited for executive and investor review.
+* Identified engagement trends that could guide Social Buzz’s content strategy.
 
-Demonstrated strength in Excel-based analytics and business storytelling.
+* Delivered a professional-grade presentation suited for executive and investor review.
 
+* Demonstrated strength in Excel-based analytics and business storytelling.
 
 
 ## Skills Used:
-Communication\
-Data Analysis\
-Data Modeling\
-Data Understanding\
-Data Visualization\
-Presentations\
-Project Planning\
-Public Speaking\
-Storytelling\
-Strategy\
-Teamwork
+Communication | Data Analysis | Data Modeling | Data Understanding | Data Visualization | Presentations | Project Planning | Public Speaking | Storytelling | Strategy | Teamwork
 
 ![image](https://github.com/MallikaUppuganti/Accenture_Data_Analytics_and_Visualization/blob/main/Task%203/Social_Buzz_Analytics_Excel_Dashboard.jpg)
