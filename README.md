@@ -9,12 +9,12 @@ In this project, I worked as a Data Analyst for Social Buzz, a digital media com
 The project was inspired by a real-world business scenario from Accenture’s Data Analytics Virtual Experience and was independently executed to reflect my analytical and business communication skills.
 
 ## 🧩 Project Tasks & What I Did
-1. Understanding Stakeholder Needs
+**1.** Understanding Stakeholder Needs
 * Reviewed the client brief and clarified the core objective: identify top content categories based on user engagement (likes, shares, comments).
 
 * Considered how the insights would inform executive strategy and investor readiness.
 
-2. Data Cleaning in Excel
+**2.** Data Cleaning in Excel
 * Worked with three datasets: Reactions, Content and Reaction Types.
 
 * Performed data cleaning operations such as:
@@ -25,7 +25,7 @@ The project was inspired by a real-world business scenario from Accenture’s Da
 
   * Validating category labels for consistency
 
-3. Data Analysis in Excel
+**3.** Data Analysis in Excel
 * Joined datasets to create a unified table for analysis.
 
 * Calculated reaction scores per content category by aggregating reactions (likes, hearts, wows, etc.).
@@ -34,14 +34,20 @@ The project was inspired by a real-world business scenario from Accenture’s Da
 
 * Highlighted the top 5 most engaging content categories with insights about user behavior.
 
-4. Insight Communication via PowerPoint
+**4.** Insight Communication via PowerPoint
+
 * Created a concise, visually structured PowerPoint presentation tailored to business stakeholders.
 
 * Outlined key findings, explained the method used and presented strategic recommendations.
 
 * Focused on clarity, prioritization of insights and executive readability.
 
-✅ Key Outcomes
+
+## DASHBOARD
+
+![image](https://github.com/MallikaUppuganti/Accenture_Data_Analytics_and_Visualization/blob/main/Task%203/Social_Buzz_Analytics_Excel_Dashboard.jpg)
+
+## ✅ Key Outcomes
 
 * Developed a fully cleaned and analyzed dataset ready for business reporting.
 
@@ -52,7 +58,13 @@ The project was inspired by a real-world business scenario from Accenture’s Da
 * Demonstrated strength in Excel-based analytics and business storytelling.
 
 
-## Skills Used:
+## 🛠️Skills Used:
 Communication | Data Analysis | Data Modeling | Data Understanding | Data Visualization | Presentations | Project Planning | Public Speaking | Storytelling | Strategy | Teamwork
 
-![image](https://github.com/MallikaUppuganti/Accenture_Data_Analytics_and_Visualization/blob/main/Task%203/Social_Buzz_Analytics_Excel_Dashboard.jpg)
+## ✨ Why This Project Matters
+* This project demonstrates how I approach real business challenges as a Data Analyst — from raw data cleaning in Excel to executive-ready storytelling in PowerPoint.
+* It's a clear example of how I transform data into actionable insight to drive business strategy.
+
+### Project by: Mallika Uppuganti
+
+
